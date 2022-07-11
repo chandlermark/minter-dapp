@@ -1,4 +1,4 @@
-const contractAddress = "0xdD52991D3E0486394355A0d56c5BFeD3328ca985"; //Replace with your own contract address
+const contractAddress = "0x5E7fdf2fb3036393011A47Fb1B92F2b15b079d2b"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Pondering Eagles NFT Collection!";
